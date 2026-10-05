@@ -1,0 +1,12 @@
+templates/
+DB_SS__shop_db/
+
+# Node / Angular
+node_modules/
+shopkart_angular/.angular/
+dist/
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+*.swp
